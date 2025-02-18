@@ -44,6 +44,10 @@
       "ignoreMissing": [
         "@algolia/client-search"
       ]
-    }
+    },
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "vue-demi"
+    ]
   }
 }
